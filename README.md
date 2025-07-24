@@ -44,5 +44,5 @@ A modern, production-scale data engineering pipeline using the Medallion Archite
 - Azure Synapse Analytics
 - Power BI / Tableau / Microsoft Fabric
 
-## Project Structure
+
 
