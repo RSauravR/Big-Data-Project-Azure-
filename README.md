@@ -2,6 +2,9 @@
 
 A modern, production-scale data engineering pipeline using the Medallion Architecture (**Bronze, Silver, Gold**) on Azure. This project demonstrates secure, scalable ingestion, transformation, and enrichment from diverse sources, preparing robust analytics-ready data for BI, reporting, and machine learning.
 
+## Project Architecture
+<img width="3437" height="1842" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/ff9d0dcf-2c87-4fd5-8ca9-d1aa49f06d5e" />
+
 ## Features
 
 - **Multi-Source Ingestion**
